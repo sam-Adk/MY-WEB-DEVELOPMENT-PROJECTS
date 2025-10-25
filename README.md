@@ -83,9 +83,6 @@ Check it out here: https://mood-movie-recommendor.onrender.com
 
 ---
 
-## Screenshots
-![Home Page](./screenshot-home.png)  
-![Movie Details](./screenshot-details.png)
 
 ---
 
