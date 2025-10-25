@@ -42,9 +42,8 @@ Check it out here: https://my-portfolio-8f1u.onrender.com
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone the repository:
-```bash
+## Github:
+
 https://github.com/sam-Adk/MY-PORTFOLIO
 
 
@@ -90,8 +89,7 @@ Check it out here: https://mood-movie-recommendor.onrender.com
 
 ---
 
-## How to Run Locally
-1. Clone the repository:
-```bash
+## Github
+
 git https://github.com/sam-Adk/Mood-Movie-Recommendor
 
