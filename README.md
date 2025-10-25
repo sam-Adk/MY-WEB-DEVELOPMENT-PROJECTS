@@ -90,3 +90,47 @@ Check it out here: https://mood-movie-recommendor.onrender.com
 
 git https://github.com/sam-Adk/Mood-Movie-Recommendor
 
+# 3 Talking Dreams 💌
+
+**Talking Dreams** is a web application that allows users to send messages, reminders, or notes to themselves for the future. Whether it’s career goals, relationship advice, personal reflections, or life milestones, Talking Dreams helps you keep track of your thoughts and aspirations over time.
+
+---
+
+## 🌐 Live Demo
+Check it out here: https://talking-dreams.onrender.com
+
+---
+
+## Features
+- **Send Future Notes:** Write messages to yourself that you can read in the future.  
+- **Categorization:** Organize notes by topics like Career, Relationships, Personal Growth, etc.  
+- **Scheduled Delivery:** Notes are delivered on the selected future date.  
+- **Secure Storage:** Your notes are saved privately in the browser (or backend if implemented).  
+- **User-Friendly Interface:** Simple, clean, and responsive UI for easy note creation and reading.  
+
+---
+
+## Technology Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Optional Backend:** Node.js / Express (for storing notes server-side)  
+- **Database (optional):** MongoDB, Firebase, or localStorage for local saves  
+- **Hosting:** Render / Netlify / GitHub Pages  
+
+---
+
+## How It Works
+1. **Create a Note:** User types a message and selects a category and delivery date.  
+2. **Store Note:** The app stores the note securely (in backend or browser storage).  
+3. **Deliver Note:** On the chosen date, the note is displayed to the user.  
+4. **View History:** Users can view past notes and all scheduled notes at any time.  
+
+---
+
+
+---
+
+## Github
+
+git https://github.com/sam-Adk/Talking-Dreams
+
+
