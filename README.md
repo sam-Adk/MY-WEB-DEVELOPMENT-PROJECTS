@@ -134,3 +134,61 @@ Check it out here: https://talking-dreams.onrender.com
 git https://github.com/sam-Adk/Talking-Dreams
 
 
+
+# 4🎨 Late Night Piphanies — Art Shop
+
+
+**Late Night Piphanies** is a dark-themed online art shop concept that brings emotion, mystery, and creativity to digital art lovers.  
+It features a sleek minimalist UI, a smooth cart drawer, and dreamy product cards that reflect the late-night creative mood.
+
+
+## 🌐 Live Demo   https://late-night-epiphanies.onrender.com
+---
+
+## 🖌️ Project Overview
+
+This project is built using **pure HTML, CSS, and JavaScript**, without any frameworks.  
+It demonstrates how to create an elegant and interactive art store interface — complete with product listings, a working shopping cart, and toast notifications — all styled around a moody, late-night aesthetic.
+
+---
+
+## ✨ Features
+
+- 🛒 **Fully Functional Cart Drawer**  
+  Add, remove, and adjust item quantities in real time with smooth slide animations.
+
+- 🎨 **Art Gallery Display**  
+  Dynamically generated gallery cards showcasing artworks, titles, categories, and prices.
+
+- 🌙 **Dark Aesthetic Design**  
+  A deep, minimalist theme that complements artistic and emotional expression.
+
+- 🔔 **Toast Notifications**  
+  Subtle popup messages for cart actions (add/remove).
+
+- ⚡ **Pure Frontend Stack**  
+  Built entirely with HTML, CSS, and vanilla JavaScript — no React or frameworks.
+
+---
+
+## 🧱 Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure and layout |
+| **CSS3** | Styling, layout, and animations |
+| **JavaScript (ES6)** | Interactivity, cart logic, dynamic rendering |
+
+---
+
+## 🖼️ Preview
+
+> _"Where art meets midnight dreams."_  
+> A glimpse of the interface — dark background, glowing accents, elegant product cards, and a modern shopping experience.
+
+---
+
+
+
+
+
